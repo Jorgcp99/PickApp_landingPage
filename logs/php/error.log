@@ -1,0 +1,269 @@
+[02-Feb-2021 15:57:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin.php(34): require_once('/Users/alfredo/...')
+#7 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/themes.php(10): require_once('/Users/alfredo/...')
+#8 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 15:57:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-blog-header.php(13): require_once('/Users/alfredo/...')
+#7 /Users/alfredo/LocalSites/pickapp/app/public/index.php(17): require('/Users/alfredo/...')
+#8 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 15:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 15:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 15:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 15:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:01:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:02:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:02:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:03:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:09:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:09:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-cron.php(44): require_once('/Users/alfredo/...')
+#7 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:12:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin.php(34): require_once('/Users/alfredo/...')
+#7 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/themes.php(10): require_once('/Users/alfredo/...')
+#8 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/admin.php(34): require_once('/Users/alfredo/...')
+#7 /Users/alfredo/LocalSites/pickapp/app/public/wp-admin/index.php(10): require_once('/Users/alfredo/...')
+#8 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
+[02-Feb-2021 16:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php:107
+Stack trace:
+#0 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(287): gymfitness_hero_image('')
+#1 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/alfredo/LocalSites/pickapp/app/public/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /Users/alfredo/LocalSites/pickapp/app/public/wp-settings.php(557): do_action('init')
+#4 /Users/alfredo/LocalSites/pickapp/app/public/wp-config.php(77): require_once('/Users/alfredo/...')
+#5 /Users/alfredo/LocalSites/pickapp/app/public/wp-load.php(37): require_once('/Users/alfredo/...')
+#6 /Users/alfredo/LocalSites/pickapp/app/public/wp-blog-header.php(13): require_once('/Users/alfredo/...')
+#7 /Users/alfredo/LocalSites/pickapp/app/public/index.php(17): require('/Users/alfredo/...')
+#8 {main}
+  thrown in /Users/alfredo/LocalSites/pickapp/app/public/wp-content/themes/gymfitness/functions.php on line 107
